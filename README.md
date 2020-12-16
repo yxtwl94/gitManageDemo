@@ -1,3 +1,3 @@
 # gitManageDemo
 
-dev commit2
+Master commit2
